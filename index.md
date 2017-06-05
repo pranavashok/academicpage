@@ -4,42 +4,16 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="s200_pranav.ashok.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello! Since September 2016, I'm a Doctoral candidate advised by 
+[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning. Read more about my [research activities](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Past
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Previously, I was a master's student at [Chennai Mathematical Institute](http://www.cmi.ac.in), where I worked under [Prof. B. Srivathsan](http://www.cmi.ac.in/~sri) on _Probabilistic Timed Automata_. Prior to this, I earned a bachelor's degree in [Computer Science and Engineering](http://cse.nitc.ac.in/) from [National Institute of Technology, Calicut](http://www.nitc.ac.in). After a brief stint as a developer at [Commvault Systems](http://www.commvault.com), Hyderabad, I found my way back to academia. I am excited by algorithms and like building tools with strong theoretical frameworks. More on my academic and professional pursuits is detailed in my
+[curriculum vitae](PranavAshokCV.pdf).
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. P Ashok, K Chatterjee, P Daca, J Křetínský, T Meggendorfer. Value Iteration for Long-run Average Reward in Markov Decision Processes. Accepted at CAV 2017. ([pre-print](https://arxiv.org/abs/1705.02326)).

@@ -3,24 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [&#97;&#115;&#104;&#111;&#107;&#64;&#105;&#110;.&#116;&#117;&#109;.&#100;&#101;](mailto:&#97;&#115;&#104;&#111;&#107;&#64;&#105;&#110;.&#116;&#117;&#109;.&#100;&#101;)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: +49-89-289-18035
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> MI 03.11.039
+> 
+> Boltzmannstr. 3
+> 
+> 85748 Garching / Germany 

@@ -1,8 +1,11 @@
 - name: "Contact"
-  link: "contact"
+  link: "contact.html"
 
 - name: "Resume"
-  link: "resume.pdf"
+  link: "PranavAshokCV.pdf"
+
+- name: "Blog"
+  link: "http://pranavashok.in/blog"
 
 - name: "About"
-  link: "/researcher/"
+  link: "/~ashok"
