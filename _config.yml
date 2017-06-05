@@ -9,3 +9,7 @@ tracking_id: #
 sass:
     style: compressed
     sass_dir: _sass
+
+gems:
+    - jekyll-email-protect
+

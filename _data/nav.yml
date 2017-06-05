@@ -7,5 +7,8 @@
 - name: "Blog"
   link: "http://pranavashok.in/blog"
 
+- name: "Github"
+  link: "https://github.com/pranavashok"
+
 - name: "About"
   link: "/~ashok"
