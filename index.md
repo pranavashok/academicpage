@@ -16,4 +16,9 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Publications
 
-1. P Ashok, K Chatterjee, P Daca, J Křetínský, T Meggendorfer. Value Iteration for Long-run Average Reward in Markov Decision Processes. Accepted at CAV 2017. ([pre-print](https://arxiv.org/abs/1705.02326)).
+1. P Ashok, K Chatterjee, P Daca, J Křetínský, T Meggendorfer. Value Iteration for Long-run Average Reward in Markov Decision Processes. CAV 2017. ([pre-print](https://arxiv.org/abs/1705.02326)).
+
+## Talks
+
+1. Mean-payoff Objectives for Markov Decision Processes at [QAPL 2017](http://qapl17.doc.ic.ac.uk/). April 2017. [Slides](QAPL-23-April-2017.pdf).
+2. Long-Run Average Reward in MDP at DEIS Retreat, Aalborg University. August 2017. [Slides](DEIS-Retreat-Aalborg-9-Aug-2017.pdf).
