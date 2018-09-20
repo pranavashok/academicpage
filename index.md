@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="s200_pranav.ashok.jpg">
 
 Hello! Since September 2016, I'm a Doctoral candidate advised by 
-[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning. Read more about my [research activities](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
+[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
 ## Past
 
@@ -16,15 +16,21 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Publications
 
-1. P Ashok, K Chatterjee, P Daca, J Křetínský, T Meggendorfer. Value Iteration for Long-run Average Reward in Markov Decision Processes. CAV 2017. ([pre-print](https://arxiv.org/abs/1705.02326)).
+1. P. Ashok, Y. Butkova, H. Hermanns, J. Křetínský. Continuous-Time Markov Decisions based on Partial Exploration. ATVA 2018. ([pre-print](https://arxiv.org/abs/1807.09641)).
+
+1. P. Ashok, T. Brázdil, J. Křetínský, O. Slámečka. Monte Carlo Tree Search for Verifying Reachability in Markov Decision Processes. ISoLA 2018. ([pre-print](https://arxiv.org/abs/1809.03299)).
+
+1. P. Ashok, K. Chatterjee, P. Daca, J. Křetínský, T. Meggendorfer. Value Iteration for Long-run Average Reward in Markov Decision Processes. CAV 2017. ([pre-print](https://arxiv.org/abs/1705.02326)).
 
 ## Talks
 
+1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). Upcoming. October 2018.
+1. Continuous-Time Markov Decisions based on Partial Exploration at [Highlights 2018](http://highlights-conference.org/). September 2018. [Slides](Highlights-20-09-2018-Slides.pdf).
 1. Monte-Carlo Tree Search in Verification of Markov Decision Processes at [LiVe 2018 @ ETAPS](https://www7.in.tum.de/~kretinsk/LiVe2018.html). April 2018. [Slides](LiVe-20-April-2018.pdf).
-2. Value Iteration for Long-run Average Reward in Markov Decision Processes at [AVM 2017](http://avm2017.inf.mit.bme.hu/). September 2017. [Slides](AVM-19-September-2017.pdf).
-3. Long-Run Average Reward in MDP at DEIS Retreat, Aalborg University. August 2017. [Slides](DEIS-Retreat-Aalborg-9-Aug-2017.pdf).
-4. Mean-payoff Objectives for Markov Decision Processes at [QAPL 2017](http://qapl17.doc.ic.ac.uk/). April 2017. [Slides](QAPL-23-April-2017.pdf).
-5. Mean-payoff Objectives for Markov Decision Processes at Masaryk University. April 2017.
+1. Value Iteration for Long-run Average Reward in Markov Decision Processes at [AVM 2017](http://avm2017.inf.mit.bme.hu/). September 2017. [Slides](AVM-19-September-2017.pdf).
+1. Long-Run Average Reward in MDP at DEIS Retreat, Aalborg University. August 2017. [Slides](DEIS-Retreat-Aalborg-9-Aug-2017.pdf).
+1. Mean-payoff Objectives for Markov Decision Processes at [QAPL 2017](http://qapl17.doc.ic.ac.uk/). April 2017. [Slides](QAPL-23-April-2017.pdf).
+1. Mean-payoff Objectives for Markov Decision Processes at Masaryk University. April 2017.
 
 ## Professional Activities
 
