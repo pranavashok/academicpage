@@ -26,6 +26,7 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). Upcoming. October 2018.
 1. Continuous-Time Markov Decisions based on Partial Exploration at [Highlights 2018](http://highlights-conference.org/). September 2018. [Slides](Highlights-20-09-2018-Slides.pdf).
+1. "Saving the planet with Scikit-learn... or maybe not" at DEIS Retreat, Aalborg University. August 2018.
 1. Monte-Carlo Tree Search in Verification of Markov Decision Processes at [LiVe 2018 @ ETAPS](https://www7.in.tum.de/~kretinsk/LiVe2018.html). April 2018. [Slides](LiVe-20-April-2018.pdf).
 1. Value Iteration for Long-run Average Reward in Markov Decision Processes at [AVM 2017](http://avm2017.inf.mit.bme.hu/). September 2017. [Slides](AVM-19-September-2017.pdf).
 1. Long-Run Average Reward in MDP at DEIS Retreat, Aalborg University. August 2017. [Slides](DEIS-Retreat-Aalborg-9-Aug-2017.pdf).
