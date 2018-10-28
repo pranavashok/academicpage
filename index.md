@@ -24,7 +24,7 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Talks
 
-1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). Upcoming. October 2018.
+1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). October 2018. [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRgxGcEriIO4fCOvGZ_hbstWtC88WifuxQ0lcD8sUM0JYBxLuSUqIctBIfj39ur2hEMdBHHJGw9_42n/pub?start=false&loop=false&delayms=60000)
 1. Continuous-Time Markov Decisions based on Partial Exploration at [Highlights 2018](http://highlights-conference.org/). September 2018. [Slides](Highlights-20-09-2018-Slides.pdf).
 1. "Saving the planet with Scikit-learn... or maybe not" at DEIS Retreat, Aalborg University. August 2018.
 1. Monte-Carlo Tree Search in Verification of Markov Decision Processes at [LiVe 2018 @ ETAPS](https://www7.in.tum.de/~kretinsk/LiVe2018.html). April 2018. [Slides](LiVe-20-April-2018.pdf).
@@ -35,4 +35,5 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Professional Activities
 
-* [TACAS 2018 Artifact Evaluation Committee](Artifact Evaluation Committee)
+* [TACAS 2019 Artifact Evaluation Committee](https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#Artifact-Evaluation-for-TACAS-19)
+* [TACAS 2018 Artifact Evaluation Committee](https://tacas.info/artifacts.php)
