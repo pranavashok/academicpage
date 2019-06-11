@@ -37,7 +37,19 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 1. Mean-payoff Objectives for Markov Decision Processes at [QAPL 2017](http://qapl17.doc.ic.ac.uk/). April 2017. [Slides](QAPL-23-April-2017.pdf).
 1. Mean-payoff Objectives for Markov Decision Processes at Masaryk University. April 2017.
 
+
+## Tutorials
+
+- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/))
+- Fundamental Algorithms ([Winter 2018/19](https://www7.in.tum.de/um/courses/fundalg/ws1819/fa.html))
+- Quantitative Verification ([Winter 2016/17, Winter 2017/18](https://www7.in.tum.de/um/courses/QV/ws1819/qv.html))
+
+## Students Supervised
+
+1. Tornike Kikalishvili. Off-line Model-Based UI and Functional Testing for iOS Application in Agile Environment. MSc. Thesis, 2018.
+
 ## Professional Activities
 
 * [TACAS 2019 Artifact Evaluation Committee](https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#Artifact-Evaluation-for-TACAS-19)
 * [TACAS 2018 Artifact Evaluation Committee](https://tacas.info/artifacts.php)
+
