@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="s200_pranav.ashok.jpg">
 
 Hello! Since September 2016, I'm a Doctoral candidate advised by 
-[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
+[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
 ## Past
 
@@ -15,6 +15,10 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 [curriculum vitae](PranavAshokCV.pdf).
 
 ## Publications
+
+1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019 (to appear).
+
+1. P. Ashok, J. Křetínský, M. Weininger. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games. CAV 2019 (to appear). ([pre-print](https://arxiv.org/abs/1905.04403)).
 
 1. P. Ashok, Y. Butkova, H. Hermanns, J. Křetínský. Continuous-Time Markov Decisions based on Partial Exploration. ATVA 2018. ([pre-print](https://arxiv.org/abs/1807.09641)).
 
