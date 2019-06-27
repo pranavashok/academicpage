@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="s200_pranav.ashok.jpg">
 
 Hello! Since September 2016, I'm a Doctoral candidate advised by 
-[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
+[Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
 ## Past
 
@@ -15,6 +15,10 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 [curriculum vitae](PranavAshokCV.pdf).
 
 ## Publications
+
+1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019 (to appear).
+
+1. P. Ashok, J. Křetínský, M. Weininger. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games. CAV 2019 (to appear). ([pre-print](https://arxiv.org/abs/1905.04403)).
 
 1. P. Ashok, Y. Butkova, H. Hermanns, J. Křetínský. Continuous-Time Markov Decisions based on Partial Exploration. ATVA 2018. ([pre-print](https://arxiv.org/abs/1807.09641)).
 
@@ -33,7 +37,19 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 1. Mean-payoff Objectives for Markov Decision Processes at [QAPL 2017](http://qapl17.doc.ic.ac.uk/). April 2017. [Slides](QAPL-23-April-2017.pdf).
 1. Mean-payoff Objectives for Markov Decision Processes at Masaryk University. April 2017.
 
+
+## Tutorials
+
+- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/))
+- Fundamental Algorithms ([Winter 2018/19](https://www7.in.tum.de/um/courses/fundalg/ws1819/fa.html))
+- Quantitative Verification ([Winter 2016/17, Winter 2017/18](https://www7.in.tum.de/um/courses/QV/ws1819/qv.html))
+
+## Students Supervised
+
+1. Tornike Kikalishvili. Off-line Model-Based UI and Functional Testing for iOS Application in Agile Environment. MSc. Thesis, 2018.
+
 ## Professional Activities
 
 * [TACAS 2019 Artifact Evaluation Committee](https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#Artifact-Evaluation-for-TACAS-19)
 * [TACAS 2018 Artifact Evaluation Committee](https://tacas.info/artifacts.php)
+
