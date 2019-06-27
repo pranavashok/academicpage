@@ -16,7 +16,9 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Publications
 
-1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019 (to appear).
+1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019 (to appear). ([pre-print](https://arxiv.org/abs/1906.10640))
+
+1. P. Ashok, T. Brázdil, K. Chatterjee, J. Křetínský, C. H. Lampert and V. Toman. Strategy Representation by Decision Trees with Linear Classifiers. QEST 2019 (to appear). ([pre-print](https://arxiv.org/abs/1906.08178))
 
 1. P. Ashok, J. Křetínský, M. Weininger. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games. CAV 2019 (to appear). ([pre-print](https://arxiv.org/abs/1905.04403)).
 
