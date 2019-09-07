@@ -16,6 +16,8 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Publications
 
+1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Work in progress. ([pre-print](https://arxiv.org/abs/1908.05106)).
+
 1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.10640))
 
 1. P. Ashok, T. Brázdil, K. Chatterjee, J. Křetínský, C. H. Lampert and V. Toman. Strategy Representation by Decision Trees with Linear Classifiers. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.08178))
