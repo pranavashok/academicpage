@@ -16,11 +16,11 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Publications
 
-1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019 (to appear). ([pre-print](https://arxiv.org/abs/1906.10640))
+1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.10640))
 
-1. P. Ashok, T. Brázdil, K. Chatterjee, J. Křetínský, C. H. Lampert and V. Toman. Strategy Representation by Decision Trees with Linear Classifiers. QEST 2019 (to appear). ([pre-print](https://arxiv.org/abs/1906.08178))
+1. P. Ashok, T. Brázdil, K. Chatterjee, J. Křetínský, C. H. Lampert and V. Toman. Strategy Representation by Decision Trees with Linear Classifiers. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.08178))
 
-1. P. Ashok, J. Křetínský, M. Weininger. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games. CAV 2019 (to appear). ([pre-print](https://arxiv.org/abs/1905.04403)).
+1. P. Ashok, J. Křetínský, M. Weininger. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games. CAV 2019. ([pre-print](https://arxiv.org/abs/1905.04403)).
 
 1. P. Ashok, Y. Butkova, H. Hermanns, J. Křetínský. Continuous-Time Markov Decisions based on Partial Exploration. ATVA 2018. ([pre-print](https://arxiv.org/abs/1807.09641)).
 
@@ -30,6 +30,7 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Talks
 
+1. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games at [CAV 2019](http://i-cav.org/2019/). July 2019. [Slides](CAV-16-July-2019.pdf).
 1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). October 2018. [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRgxGcEriIO4fCOvGZ_hbstWtC88WifuxQ0lcD8sUM0JYBxLuSUqIctBIfj39ur2hEMdBHHJGw9_42n/pub?start=false&loop=false&delayms=60000)
 1. Continuous-Time Markov Decisions based on Partial Exploration at [Highlights 2018](http://highlights-conference.org/). September 2018. [Slides](Highlights-20-09-2018-Slides.pdf).
 1. "Saving the planet with Scikit-learn... or maybe not" at DEIS Retreat, Aalborg University. August 2018.
