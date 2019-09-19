@@ -33,6 +33,8 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 ## Talks
 
 1. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games at [Highlights 2019](http://highlights-conference.org/). September 2019. [Slides](Highlights-19-09-2019-Slides.pdf).
+1. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games at [QEST 2019](http://www.qest.org/qest2019/index.html). September 2019. [Slides](QEST-2019-SOS-DT-in-Stratego.pdf).
+1. Strategy Representation by Decision Trees with Linear Classifiers at [QEST 2019](http://www.qest.org/qest2019/index.html). September 2019. [Slides](QEST-2019-DT-with-linear-classifiers.pdf).
 1. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games at [CAV 2019](http://i-cav.org/2019/). July 2019. [Slides](CAV-16-July-2019.pdf).
 1. Continuous-Time Markov Decisions based on Partial Exploration at [ATVA 2018](http://atva-conference.org/). October 2018. [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRgxGcEriIO4fCOvGZ_hbstWtC88WifuxQ0lcD8sUM0JYBxLuSUqIctBIfj39ur2hEMdBHHJGw9_42n/pub?start=false&loop=false&delayms=60000)
 1. Continuous-Time Markov Decisions based on Partial Exploration at [Highlights 2018](http://highlights-conference.org/). September 2018. [Slides](Highlights-20-09-2018-Slides.pdf).
