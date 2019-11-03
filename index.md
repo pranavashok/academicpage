@@ -9,11 +9,6 @@ layout: default
 Hello! Since September 2016, I'm a Doctoral candidate advised by 
 [Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
-## Past
-
-Previously, I was a master's student at [Chennai Mathematical Institute](http://www.cmi.ac.in), where I worked under [Prof. B. Srivathsan](http://www.cmi.ac.in/~sri) on _Probabilistic Timed Automata_. Prior to this, I earned a bachelor's degree in [Computer Science and Engineering](http://cse.nitc.ac.in/) from [National Institute of Technology, Calicut](http://www.nitc.ac.in). After a brief stint as a developer at [Commvault Systems](http://www.commvault.com), Hyderabad, I found my way back to academia. I am excited by algorithms and like building tools with strong theoretical frameworks. More on my academic and professional pursuits is detailed in my
-[curriculum vitae](PranavAshokCV.pdf).
-
 ## Publications
 
 1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Work in progress. ([pre-print](https://arxiv.org/abs/1908.05106)).
@@ -48,16 +43,25 @@ Previously, I was a master's student at [Chennai Mathematical Institute](http://
 
 ## Tutorials
 
-- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/))
+- Algorithms for Programming Contests ([Winter 2017/18](https://www7.in.tum.de/um/courses/praktika/conpra/WS17/), [Winter 2019/20](https://www7.in.tum.de/um/courses/praktika/conpra/WS19/))
 - Fundamental Algorithms ([Winter 2018/19](https://www7.in.tum.de/um/courses/fundalg/ws1819/fa.html))
+- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/))
 - Quantitative Verification ([Winter 2016/17, Winter 2017/18](https://www7.in.tum.de/um/courses/QV/ws1819/qv.html))
+
 
 ## Students Supervised
 
 1. Tornike Kikalishvili. Off-line Model-Based UI and Functional Testing for iOS Application in Agile Environment. MSc. Thesis, 2018.
 
+2. Safa Mert Akmese. Generating Richer Predicates for Decision Trees. BSc. Thesis, 2019.
+
 ## Professional Activities
 
+* [TACAS 2020 Artifact Evaluation Committee](https://tacas.info/artifacts-20.php)
 * [TACAS 2019 Artifact Evaluation Committee](https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#Artifact-Evaluation-for-TACAS-19)
-* [TACAS 2018 Artifact Evaluation Committee](https://tacas.info/artifacts.php)
+* [TACAS 2018 Artifact Evaluation Committee](https://tacas.info/artifacts-18.php)
 
+## Past
+
+Previously, I was a master's student at [Chennai Mathematical Institute](http://www.cmi.ac.in), where I worked under [Prof. B. Srivathsan](http://www.cmi.ac.in/~sri) on _Probabilistic Timed Automata_. Prior to this, I earned a bachelor's degree in [Computer Science and Engineering](http://cse.nitc.ac.in/) from [National Institute of Technology, Calicut](http://www.nitc.ac.in). After a brief stint as a developer at [Commvault Systems](http://www.commvault.com), Hyderabad, I found my way back to academia. I am excited by algorithms and like building tools with strong theoretical frameworks. More on my academic and professional pursuits is detailed in my
+[curriculum vitae](PranavAshokCV.pdf).
