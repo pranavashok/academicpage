@@ -11,6 +11,8 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 ## Publications
 
+1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller. Accepted at HSCC 2020.
+
 1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Work in progress. ([pre-print](https://arxiv.org/abs/1908.05106)).
 
 1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.10640))
