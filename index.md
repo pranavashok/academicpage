@@ -13,7 +13,7 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller. Accepted at HSCC 2020.
 
-1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Work in progress. ([pre-print](https://arxiv.org/abs/1908.05106)).
+1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Submitted. ([pre-print](https://arxiv.org/abs/1908.05106)).
 
 1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.10640))
 
@@ -53,9 +53,14 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 ## Students Supervised
 
+1. Cristian Neufuss. Translating Natural Language for a Regex Compiler Language using Neural Networks. BSc. Thesis, 2020.
+
+1. Stefanie Mühlberger. Faster Verification of Neural Networks with Clustering-based Compression. MSc. Thesis, 2020.
+
+1. Safa Mert Akmese. Generating Richer Predicates for Decision Trees. BSc. Thesis, 2019.
+
 1. Tornike Kikalishvili. Off-line Model-Based UI and Functional Testing for iOS Application in Agile Environment. MSc. Thesis, 2018.
 
-2. Safa Mert Akmese. Generating Richer Predicates for Decision Trees. BSc. Thesis, 2019.
 
 ## Professional Activities
 
