@@ -11,7 +11,7 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 ## Publications
 
-1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller Representation. Accepted at HSCC 2020. ([pip package](https://pypi.org/project/dtcontrol/), [documentation](https://dtcontrol.readthedocs.io/en/latest/))
+1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller Representation. HSCC 2020. ([website](itettps://dtcontrol.model.in.tum.de/), [paper](https://dl.acm.org/doi/abs/10.1145/3365365.3382220), [conference talk](https://www.youtube.com/watch?v=K6d3pS6Ege0), [demo video](https://www.youtube.com/watch?v=qS8FQ3pCeE4)).
 
 1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Submitted. ([pre-print](https://arxiv.org/abs/1908.05106)).
 
@@ -47,11 +47,13 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 - Algorithms for Programming Contests ([Winter 2017/18](https://www7.in.tum.de/um/courses/praktika/conpra/WS17/), [Winter 2019/20](https://www7.in.tum.de/um/courses/praktika/conpra/WS19/))
 - Fundamental Algorithms ([Winter 2018/19](https://www7.in.tum.de/um/courses/fundalg/ws1819/fa.html))
-- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/))
+- Model Checking ([Summer 2017](https://www7.in.tum.de/um/courses/mc/ss2017/), [Summer 2018](https://www7.in.tum.de/um/courses/mc/ss2018/), [Summer 2019](https://www7.in.tum.de/um/courses/mc/ss2019/), [Summer 2020](https://www7.in.tum.de/um/courses/mc/ss2020/))
 - Quantitative Verification ([Winter 2016/17, Winter 2017/18](https://www7.in.tum.de/um/courses/QV/ws1819/qv.html))
 
 
 ## Students Supervised
+
+1. Alexander Slivinskiy. Solving Simple Stochastic Games with Quadratic Programming. BSc. Thesis, 2020.
 
 1. Cristian Neufuss. Translating Natural Language for a Regex Compiler Language using Neural Networks. BSc. Thesis, 2020.
 
