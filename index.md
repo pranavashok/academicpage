@@ -63,6 +63,7 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 1. Tornike Kikalishvili. Off-line Model-Based UI and Functional Testing for iOS Application in Agile Environment. MSc. Thesis, 2018.
 
+1. Ond&#345;ej Sl&aacute;me&#269;ka. Monte Carlo Tree Search in Verification of Markov Decision Processes. MSc. Thesis, 2017.
 
 ## Professional Activities
 
