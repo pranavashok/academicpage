@@ -10,10 +10,11 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 [Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
 ## Publications
+1. P. Ashok, V. Hashemi, J. Křetínský, S. Mohr. DeepAbstract: Neural Network Abstraction for Accelerating Verification. Accepted at ATVA 2020. ([pre-print](https://arxiv.org/abs/2006.13735))
+
+1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Accepted at LICS 2020. ([pre-print](https://arxiv.org/abs/1908.05106)).
 
 1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller Representation. HSCC 2020. ([website](itettps://dtcontrol.model.in.tum.de/), [paper](https://dl.acm.org/doi/abs/10.1145/3365365.3382220), [conference talk](https://www.youtube.com/watch?v=K6d3pS6Ege0), [demo video](https://www.youtube.com/watch?v=qS8FQ3pCeE4)).
-
-1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Submitted. ([pre-print](https://arxiv.org/abs/1908.05106)).
 
 1. P. Ashok, J. Křetinsky, K. G. Larsen, A. Le Coënt, J. H. Taankvist and M. Weininger. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games. QEST 2019. ([pre-print](https://arxiv.org/abs/1906.10640))
 
