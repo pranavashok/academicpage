@@ -10,9 +10,11 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 [Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
 ## Publications
-1. P. Ashok, V. Hashemi, J. Křetínský, S. Mohr. DeepAbstract: Neural Network Abstraction for Accelerating Verification. Accepted at ATVA 2020. ([pre-print](https://arxiv.org/abs/2006.13735))
+1. P. Ashok, J. Kretinsky, M. Weininger.  Statistical Model Checking: Black or White?. ISoLA 2020. ([proceedings](https://www.springer.com/gp/book/9783030614669))
 
-1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. Accepted at LICS 2020. ([pre-print](https://arxiv.org/abs/1908.05106)).
+1. P. Ashok, V. Hashemi, J. Křetínský, S. Mohr. DeepAbstract: Neural Network Abstraction for Accelerating Verification. ATVA 2020. ([pre-print](https://arxiv.org/abs/2006.13735), [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_5))
+
+1. P. Ashok, J. Křetinsky, M. Weininger. Approximating Values of Generalized-Reachability Stochastic Games. LICS 2020. ([pre-print](https://arxiv.org/abs/1908.05106), [paper](https://dl.acm.org/doi/10.1145/3373718.3394761))
 
 1. P. Ashok, M. Jackermeier, P. Jagtap, J. Kretinsky, M. Weininger and M. Zamani. dtControl: Decision Tree Learning Algorithms for Controller Representation. HSCC 2020. ([website](itettps://dtcontrol.model.in.tum.de/), [paper](https://dl.acm.org/doi/abs/10.1145/3365365.3382220), [conference talk](https://www.youtube.com/watch?v=K6d3pS6Ege0), [demo video](https://www.youtube.com/watch?v=qS8FQ3pCeE4)).
 
@@ -30,6 +32,7 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 ## Talks
 
+1. Compact and explainable strategy representations using dtControl at [Highlights 2020](http://highlights-conference.org/). September 2020. [Poster](http://highlights-conference.org/2020-posters/2A/poster-2A-4.png), [Slides](https://docs.google.com/presentation/d/1rOXvQ9_bSLBCsjXJrLBciYhlgM9vaG8j521zNrt1C0Q/edit?usp=sharing).
 1. PAC Statistical Model Checking for Markov Decision Processes and Stochastic Games at [Highlights 2019](http://highlights-conference.org/). September 2019. [Slides](Highlights-19-09-2019-Slides.pdf).
 1. SOS: Safe, Optimal and Small Strategies for Stochastic Hybrid Games at [QEST 2019](http://www.qest.org/qest2019/index.html). September 2019. [Slides](QEST-2019-SOS-DT-in-Stratego.pdf).
 1. Strategy Representation by Decision Trees with Linear Classifiers at [QEST 2019](http://www.qest.org/qest2019/index.html). September 2019. [Slides](QEST-2019-DT-with-linear-classifiers.pdf).
@@ -53,6 +56,10 @@ Hello! Since September 2016, I'm a Doctoral candidate advised by
 
 
 ## Students Supervised
+
+1. Christoph Weinhuber. Learning Domain-Specific Predicates in Decision Trees for Explainable Controller Representation. BSc. Thesis, 2020.
+
+1. Mathias Jackermeier. dtControl: Decision Tree Learning for Explainable Controller Representation. BSc. Thesis, 2020. [Link](https://mediatum.ub.tum.de/node?id=1547107)
 
 1. Alexander Slivinskiy. Solving Simple Stochastic Games with Quadratic Programming. BSc. Thesis, 2020.
 
