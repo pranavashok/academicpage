@@ -9,7 +9,11 @@ layout: default
 Hello! Since September 2016, I'm a Doctoral candidate advised by 
 [Prof. Jan K&#345;et&iacute;nsk&yacute;](https://www7.in.tum.de/~kretinsk/) in the Chair for [Foundations of Software Reliability and Theoretical Computer Science](https://www7.in.tum.de/home/index.php) at the [Technical University of Munich](http://www.in.tum.de). My current work revolves around formal methods and verification and lately, its interactions with machine learning and neural networks. [dblp](https://dblp.uni-trier.de/pers/hd/a/Ashok:Pranav), [Google Scholar](https://scholar.google.com/citations?user=QHIE7i0AAAAJ).
 
+I have just submitted my dissertation and I'm actively looking for opportunities in industry!
+
 ## Publications
+1. P. Ashok, M. Jackermeier, J. Kretinsky, C. Weinhuber, M. Weininger, M. Yadav. dtControl 2.0: Explainable Strategy Representation via Decision Tree Learning Steered by Experts. TACAS 2021 (upcoming).
+
 1. P. Ashok, J. Kretinsky, M. Weininger.  Statistical Model Checking: Black or White?. ISoLA 2020. ([proceedings](https://www.springer.com/gp/book/9783030614669))
 
 1. P. Ashok, V. Hashemi, J. Křetínský, S. Mohr. DeepAbstract: Neural Network Abstraction for Accelerating Verification. ATVA 2020. ([pre-print](https://arxiv.org/abs/2006.13735), [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_5))
